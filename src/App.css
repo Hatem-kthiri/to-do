@@ -1,0 +1,28 @@
+body{
+  background: linear-gradient(to top right, #fc2c77 0%, #6c4079 100%);
+  
+}
+#App{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 600px;
+
+}
+#Reg_Form{
+  width: 40%;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px 10px;
+  background-color: #fff;
+}
+#btn{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.funny {
+font-size: 78px;}
+.style{
+color: red;
+}
